@@ -29,10 +29,9 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,postgres,mongodb,mysql,docker,git,solana,html,css,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,postgres,mysql,mongodb,sequelize,docker,git,solana,aws,github,postman,html,css&perline=10" alt="Olena's Tech Stack" />
   </a>
 </div>
-
 <br/>
 
 <br/>
@@ -58,3 +57,5 @@
     <img src="https://u8views.com/api/v1/github/profiles/32778234/views/day-week-month-total-count.svg">
   </a>
 </div>
+
+<br/>

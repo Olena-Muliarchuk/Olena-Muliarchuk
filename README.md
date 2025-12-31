@@ -29,33 +29,11 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,postgres,mongodb,mysql,docker,git,aws,solana,html,css,linux,nginx,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,postgres,mongodb,mysql,docker,git,solana,html,css,postman&perline=8" />
   </a>
 </div>
 
 <br/>
-
-<h3 align="center">📈 GitHub Stats</h3>
-
-<div align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/Olena-Muliarchuk">
-          <img src="https://github-readme-stats.vercel.app/api?username=Olena-Muliarchuk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Olena's GitHub Stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Olena-Muliarchuk">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olena-Muliarchuk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  <a href="https://github.com/Olena-Muliarchuk">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olena-Muliarchuk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
 
 <br/>
 

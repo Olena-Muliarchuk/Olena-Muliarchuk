@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
 </div>
 
+<a href="https://u8views.com/github/Olena-Muliarchuk"><img src="https://u8views.com/api/v1/github/profiles/32778234/views/day-week-month-total-count.svg"></a>
+
 <h3 align="center">🌐 Socials</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/olena-muliarchuk" target="_blank">

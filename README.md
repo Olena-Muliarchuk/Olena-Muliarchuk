@@ -34,6 +34,11 @@
 </div>
 <br/>
 
+<h3 align="center">💻 Languages</h3>
+<div align="center">
+  <img src="https://github.com/Olena-Muliarchuk/Olena-Muliarchuk/blob/main/languages-bar.svg" alt="Languages" width="600">
+</div>
+
 <br/>
 
 <h3 align="center">📫 Connect with me</h3>

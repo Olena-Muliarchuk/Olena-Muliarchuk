@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3572A5&center=true&vCenter=true&width=500&lines=Building+Scalable+Architectures;Expert+in+Node.js+and+TypeScript;Focusing+on+Security+(OWASP);Mentoring+Future+Developers" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3572A5&center=true&vCenter=true&width=500&lines=Building+Scalable+Architectures;Expert+in+Node.js+and+TypeScript;Real-time+Systems+%26+Queue+Processing;Mentoring+Developers+%26+Students" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,14 +13,15 @@
 <h3 align="center">👩‍💻 About Me</h3>
 
 <p align="center">
-   Backend Engineer with <b>4+ years of experience</b> specializing in scalable architectures. <br>
-   I focus on building high-load enterprise solutions and ensuring system stability. 
+   Backend Engineer with <b>4+ years of experience</b> building scalable, production-ready systems.<br>
+   Specialized in real-time architectures, async queue processing, and API security.
 </p>
 
 <p align="center">
-  🔭 <b>Current Project:</b> Architecting a crowdfunding platform (WebSockets & Real-time communication).<br>
-  🌱 <b>Learning:</b> Advanced Security Strategies & AWS.<br>
-  💬 <b>Ask me about:</b> Mentoring, Node.js Best Practices & API Design.
+  🔭 <b>Currently:</b> Backend Developer at a crowdfunding startup — WebSocket messenger, Redis BullMQ, OAuth 2.0<br>
+  🌱 <b>Learning:</b> Deep-diving into Redis & TypeORM — building a TypeScript e-commerce API<br>
+  🎓 <b>Mentoring:</b> Teaching Node.js & programming fundamentals to developers and students<br>
+  💬 <b>Ask me about:</b> Node.js architecture, NestJS, real-time systems, API design
 </p>
 
 <br/>
@@ -29,12 +30,14 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,postgres,mysql,mongodb,sequelize,prisma,docker,git,aws,github,postman,html,css&perline=8" alt="Olena's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js,postgres,mysql,mongodb,redis,sequelize,prisma,docker,git,aws,github,postman,html,css&perline=9" alt="Olena's Tech Stack" />
   </a>
 </div>
+
 <br/>
 
 <h3 align="center">💻 Languages</h3>
+
 <div align="center">
   <img src="https://github.com/Olena-Muliarchuk/Olena-Muliarchuk/blob/main/languages-bar.svg" alt="Languages" width="600">
 </div>

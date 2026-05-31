@@ -13,7 +13,7 @@
 <h3 align="center">👩‍💻 About Me</h3>
 
 <p align="center">
-   Backend Engineer with <b>4+ years of experience</b> building scalable, production-ready systems.<br>
+   Backend Engineer with <b>6+ years of experience</b> building scalable, production-ready systems.<br>
    Specialized in real-time architectures, async queue processing, and API security.
 </p>
 
